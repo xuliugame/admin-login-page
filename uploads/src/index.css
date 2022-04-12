@@ -1,0 +1,13 @@
+.login-register {
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+
+.m-0-a {
+    margin: 0 auto;
+}

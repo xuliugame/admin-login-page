@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.scroll-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  border: 30px solid transparent;
+  border-bottom-color: #7f7979;
+  width: 0;
+  height: 0
+}
+.name {
+  right: 0;
+  bottom: 0;
+}
+.border {
+  border: 2px solid #7f7979;
+  border-radius: 5px;
+}
